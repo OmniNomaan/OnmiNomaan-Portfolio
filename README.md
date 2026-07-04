@@ -1,4 +1,4 @@
-# OmniNomaan — Portfolio
+# Nomaan Killedar — Portfolio
 
 A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no frameworks, no dependencies.
 
