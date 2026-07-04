@@ -1,2 +1,16 @@
 # OnmiNomaan-Portfolio
-Terminal-themed portfolio for Nomaan Killedar — a dark, neon-accented single-page site styled like a hacker console. Features a typed whoami intro, skills shown as an ls -la listing with proficiency bars, and a live "installing Cybersecurity" progress section. Pure HTML/CSS/JS, no dependencies.
+# Nomaan Killedar — Portfolio
+
+A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no frameworks, no dependencies.
+
+## Features
+- 🖥️ Terminal-style hero with typed `whoami` intro
+- 📂 Skills displayed as a Unix `ls -la` file listing with proficiency bars
+- 📦 "Currently learning" section styled as a live package install (Cybersecurity — in progress)
+- 🎨 Dark theme with cyan/magenta neon accents, fully responsive
+
+## Tech
+HTML5 · CSS3 · Vanilla JS · JetBrains Mono & Inter (Google Fonts)
+
+## Live Demo
+[View Portfolio](#) <!-- add your GitHub Pages link here -->
