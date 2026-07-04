@@ -12,4 +12,4 @@ A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no 
 HTML5 · CSS3 · Vanilla JS · JetBrains Mono & Inter (Google Fonts)
 
 ## Live Demo
-[View Portfolio](#) <!-- add your GitHub Pages link here -->
+[View Portfolio](index.html) <!-- add your GitHub Pages link here -->
