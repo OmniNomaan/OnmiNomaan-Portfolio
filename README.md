@@ -12,4 +12,4 @@ A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no 
 HTML5 · CSS3 · Vanilla JS · JetBrains Mono & Inter (Google Fonts)
 
 ## Live Demo
-[View Portfolio](https://omninomaan.github.io/NomaanPortfolio/)
+[View Portfolio]()
